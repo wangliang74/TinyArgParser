@@ -69,5 +69,3 @@ int main(int argc, char** argv) {
 ## 许可证
 
 采用 [MIT License](LICENSE)，许可文件包含英文原文和中文参考译文。
-
-Developed by Wang Liang.
